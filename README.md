@@ -1,3 +1,5 @@
-Hi, I’m Sultan (@sultanxdev) — a Full-Stack Engineer shipping real Web & GenAI SaaS products.  
-Tech: TypeScript, Next.js, Node.js, PostgreSQL, LangChain.  
-Portfolio: https://sultanalam.vercel.app
+𝐇𝐢, 𝐈’𝐦 𝐒𝐮𝐥𝐭𝐚𝐧 (@sultanxdev) — Full-Stack Engineer shipping Web & GenAI SaaS products
+<br>
+Tech Stack : TypeScript, Next.js, Node.js, PostgreSQL, LangChain
+<br>
+Portfolio : https://www.sultanx.dev
