@@ -3,10 +3,9 @@
 
 <br>
 
-𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠
-
-→ Zyvan — webhook reliability infrastructure
-→ Waani — realtime voice AI infrastructure
+𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠<br>
+→ Zyvan — webhook reliability infrastructure<br>
+→ Waani — realtime voice AI infrastructure<br>
 → Zeemo — AI-powered incident investigation
 
 <br>
