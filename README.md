@@ -4,7 +4,6 @@
 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠<br>
 
 → Zyvan — webhook reliability infrastructure<br>
-→ Waani — realtime voice AI infrastructure<br>
 → Dermo — A fully managed AI employee for local businesses.<br>
 
 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
