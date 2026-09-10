@@ -5,7 +5,7 @@
 
 → Zyvan — webhook reliability infrastructure<br>
 → Waani — realtime voice AI infrastructure<br>
-→ Zeemo — AI-powered incident investigation<br>
+→ Dermo — A fully managed AI employee for local businesses.<br>
 
 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
 https://www.sultanx.dev
